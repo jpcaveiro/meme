@@ -3,6 +3,7 @@
 @2021
 
 * 12 ECTS = 12 x 27 horas semanais = 324 horas (36 horas semanais para 9 semanas previstas de aulas)
+* MS Teams via emails da UA em grupo de definir (falta)
 
 
 Objetivos:
@@ -17,7 +18,7 @@ Metodologia (em falta)
 
 Conteúdos específicos na computação para a Matemática Educacional
 
-- Linguagem Python
+- [Linguagem Python](https://colab.research.google.com/drive/1-1Ps41X15HgbqbJkI1orPKakC5O8EvCQ)
 - Linguagem Sagemath (micro variante do Python. para geometria e matemática em geral)
 - Bibliotecas em domínios matemáticos
 
