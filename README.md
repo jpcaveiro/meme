@@ -10,8 +10,10 @@ Objetivos:
 - domínio de algoritmos de computação ao nível de módulos educativos
 - domínio de conceitos de estatística relevantes para a educação
 - usar código de encontro à estatística
-- pesquisa de literatura e escrita de um artigo
+- pesquisa de literatura e escrita de um artigo (em falta)
 - edição de materiais online
+
+Metodologia (em falta)
 
 Conteúdos específicos na computação para a Matemática Educacional
 
@@ -22,9 +24,8 @@ Conteúdos específicos na computação para a Matemática Educacional
 Conteúdos específicos na estatística para a Matemática Educacional
 
 - Estatística Descritiva 1 ou 2 variáveis
-- Testes de Hipóteses e Intervalos de Confiança a 1 variável
+- Testes de Hipóteses e Intervalos de Confiança para a média
 - Testes de Hipóteses e Intervalos de Confiança para proporções
-- Testes de Hipóteses e Intervalos de Confiança a 2 variáveis
 - ANOVA
 - Medidas de Associação
 - Regressão Linear simples ou múltipla
@@ -33,7 +34,10 @@ Conteúdos específicos na estatística para a Matemática Educacional
 Avaliação:
 
 - qualidade do artigo
-- teste escrito com consulta aberta
+- apresentação oral do trabalho desenvolvido
+
+
+
 
 
 
