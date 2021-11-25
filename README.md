@@ -26,8 +26,9 @@ Conteúdos específicos na estatística para a Matemática Educacional
 - Testes de Hipóteses e Intervalos de Confiança para proporções
 - Testes de Hipóteses e Intervalos de Confiança a 2 variáveis
 - ANOVA
+- Medidas de Associação
 - Regressão Linear simples ou múltipla
-- Regressão Logística e "Item Response Theory" básica
+- Regressão Logística e "Item Response Theory"
 
 
 
