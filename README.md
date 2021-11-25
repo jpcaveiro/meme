@@ -29,6 +29,8 @@ Formadores: Adelaide Freitas e João Pedro Cruz
 
 - [Linguagem Python](https://colab.research.google.com/drive/1-1Ps41X15HgbqbJkI1orPKakC5O8EvCQ)
 - [interact](https://ipywidgets.readthedocs.io/en/latest/examples/Using%20Interact.html)
+- [jupyter notebook online](https://colab.research.google.com/notebooks/io.ipynb) - será necessário instalar a app "colaboratory"
+- no computador "anaconda"
 - Linguagem Sagemath (micro variante do Python. para geometria e matemática em geral)
 - Bibliotecas em domínios matemáticos
 
