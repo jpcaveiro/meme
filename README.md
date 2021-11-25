@@ -30,5 +30,11 @@ Conteúdos específicos na estatística para a Matemática Educacional
 - Regressão Linear simples ou múltipla
 - Regressão Logística e "Item Response Theory"
 
+Avaliação:
+
+- qualidade do artigo
+- teste escrito com consulta aberta
+
+
 
 
